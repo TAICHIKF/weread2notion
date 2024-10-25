@@ -5,6 +5,15 @@
 
 预览效果：https://book.malinkang.com
 
+
+WeRead2Notion自动将微信读书笔记同步到Notion
+https://mp.weixin.qq.com/s/IMY_fFWCpUHBMjoLMJ1SdQ
+
+授权 浏览器打开
+https://api.notion.com/v1/oauth/authorize?client_id=801fd03a-a44f-41af-9a17-feb048b4bbdd&response_type=code&owner=user&redirect_uri=https%3A%2F%2Fnotion-auth.malinkang.com%2Fweread2notion-oauth-callback
+
+
+
 > [!WARNING]  
 > 请不要在Page里面添加自己的笔记，有新的笔记的时候会删除原笔记重新添加。
 
